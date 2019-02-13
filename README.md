@@ -126,3 +126,17 @@ A record of gsoc 2018, some kind of preparation of gsoc 2019.
 |xpra.org|X11时代的Xorg||
 |XWiki|新Wiki||
 |Zulip|内部通信工具||
+
+# Interesting Group
+|组织名称|主要技术|项目|优势|
+|---|---|---|---|
+|Mixxx DJ Software|Qt, 实时流， CPP|代码库构建|实时传输的试验场|
+|MuseScore|Qt, CPP, MIDI|光学乐谱识别(ML), 评分， 教程|单纯觉得好玩的样子|
+|National Resource for Network Biology|Java， JS， Python， Html， CPP|应用开发，流程可视化，数据可视化，Wiki优化|项目十分庞大，子项目间的配合是个有意思的东西|
+|Open Data Kit|Java， Android|使用手机进行信息采集，手机间的信息传递(BlueTooth, Wifi, NFC)|有意思，物联网的小东西？|
+|OpenCensus|Python， Java， Ruby， Node， Go|网站构建阶段|Google项目，用户数据收集和分析|
+|OpenMRS|Java， MySQL， JS|总体来说还是早期构建阶段|非结构数据库之类的？|
+|Sustainable Computing Research Group|Android， Java|各方面的可持续性计算研究|通用的解决方案筛选|
+|Zulip|Python， JS， django|实时通讯|跨平台实时通信有点意思|
+|LEAP Encryption Access Project|Python， OpenVPN， JS|新的密钥保存机制|大陆前景|
+|Matrix.org|Go， iOS， Android， Python|端到端加密|同上|

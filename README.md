@@ -1,4 +1,4 @@
-# GSOC_2018
+﻿# GSOC_2018
 A record of gsoc 2018, some kind of preparation of gsoc 2019.
 
 # 组织简介
@@ -130,6 +130,24 @@ A record of gsoc 2018, some kind of preparation of gsoc 2019.
 # Interesting Group
 |组织名称|主要技术|项目|优势|
 |---|---|---|---|
+|CCExtractor Development|c，python|视频字幕提取|有趣，单仓库，流媒体技术|
+|CGAL|c++|c++库，多维几何|有趣，c++库开发|
+|Checker Framework|java|代码纠错系统|proposal要求明确|
+|Cloud Native Computing Foundation (CNCF)|golang|类Kubernetes、云计算、容器化|方向比较好|
+|Computational Biology @ University of Nebraska-Lincoln|javascript、webgl、reactjs、flask|Javascript/WebGL Library，数据可视化，数据分析|忘了当初为啥标记它了，不过总有原因的，嗯|
+|Conversations.im|java、android、xmpp、gtk、javascript|实时聊天系统/生态|搞了它没准可以应聘腾讯了鸭|
+|eta|haskell、jvm、java|函数式编程语言|这样的项目总得来一个吧|
+|FOSSology|php、postgresql、lamp、linux、c/c++|代码包分析a) License information, b) Copyright notices, c) Export control relevant statements|有趣|
+|FreeBSD|c/c++、llvm、shell script、assembly、make|操作系统|硬核（不过这个项目有8043个贡献者，貌似不太好读/好申请）|
+|GNSS-SDR|c/c++、gnss、c++11、c++14|卫星导航信号接收|项目不大，接收人数较多|
+|Haskell|haskell|优化、算法实现|比较有名？录取人数多|
+|INCF|python、c/c++、javascript、cuda、xml|脑神经科学研究辅助工具（仿真、可视化）|录取人数多、有趣|
+|InterMine|postgresql、java、javascript、python、clojure|生物数据检索|仓库单一，录取人数6人（全部贡献一个仓库？）|
+|Internet Archive|python、javascript|电子图书馆？通用爬虫？|这样的项目感觉能学到点东西？|
+|Jderobot|ros、python、c++、gazebo、opencv|智能机器人、视觉|感兴趣|
+|JGraphT|java|图论算法库|硬核、单项目|
+|jitsi|java、javascript、webrtc、react、react native|视频会议系统|项目清晰，有趣，能学到东西|
+|Kiwix|离线访问互联网内容|android开发|有趣|
 |Mixxx DJ Software|Qt, 实时流， CPP|代码库构建|实时传输的试验场|
 |MuseScore|Qt, CPP, MIDI|光学乐谱识别(ML), 评分， 教程|单纯觉得好玩的样子|
 |National Resource for Network Biology|Java， JS， Python， Html， CPP|应用开发，流程可视化，数据可视化，Wiki优化|项目十分庞大，子项目间的配合是个有意思的东西|
